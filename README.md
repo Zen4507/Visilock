@@ -101,7 +101,8 @@ Once the system is online, you can control it remotely via your Telegram Bot usi
 ## 🎥 Project Demo
 
 See VisiLock in action! The video below demonstrates real-time face recognition, automated door unlocking, and remote control via the Telegram Bot.
-![VisiLock Demo Video](https://img.youtube.com/vi/xCXm79TkUHc/maxresdefault.jpg)](https://youtu.be/xCXm79TkUHc)
+
+[![VisiLock Demo Video](https://img.youtube.com/vi/xCXm79TkUHc/maxresdefault.jpg)](https://youtu.be/xCXm79TkUHc)
 
 ## 🧠 What I Learned
 
